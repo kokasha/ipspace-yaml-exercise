@@ -1,0 +1,12 @@
+---
+---
+- username: cisco
+  password: cisco123
+  privilage: 15
+  autocommand: exec
+- username: lab
+  password: lab123
+  privilage: 10
+- username: test
+  password: test123
+- {username: karim, password: karim123}
