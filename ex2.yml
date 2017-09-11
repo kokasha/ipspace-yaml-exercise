@@ -1,0 +1,7 @@
+---
+
+hostname: R1
+loopback: 10.10.100.1
+interfaces:
+ - ge-0/0/0
+ - ge-0/0/1
