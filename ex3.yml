@@ -5,3 +5,4 @@
   password: lab123
 - username: test
   password: test123
+- {username: karim, password: karim123}
