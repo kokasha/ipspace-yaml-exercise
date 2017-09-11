@@ -1,0 +1,7 @@
+---
+- username: cisco
+  password: cisco123
+- username: lab
+  password: lab123
+- username: test
+  password: test123
